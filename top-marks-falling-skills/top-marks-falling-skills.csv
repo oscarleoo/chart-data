@@ -1,0 +1,143 @@
+dataset,series,year,value,piaac_change_2012_2023
+grades,Harvard: share of course grades that are a flat A,2006,25.5,
+grades,Harvard: share of course grades that are a flat A,2007,27.3,
+grades,Harvard: share of course grades that are a flat A,2008,28.0,
+grades,Harvard: share of course grades that are a flat A,2009,30.0,
+grades,Harvard: share of course grades that are a flat A,2010,31.5,
+grades,Harvard: share of course grades that are a flat A,2011,33.8,
+grades,Harvard: share of course grades that are a flat A,2012,36.8,
+grades,Harvard: share of course grades that are a flat A,2013,36.9,
+grades,Harvard: share of course grades that are a flat A,2014,38.9,
+grades,Harvard: share of course grades that are a flat A,2015,40.3,
+grades,Harvard: share of course grades that are a flat A,2016,41.2,
+grades,Harvard: share of course grades that are a flat A,2017,43.1,
+grades,Harvard: share of course grades that are a flat A,2018,46.7,
+grades,Harvard: share of course grades that are a flat A,2019,48.8,
+grades,Harvard: share of course grades that are a flat A,2020,50.2,
+grades,Harvard: share of course grades that are a flat A,2021,62.8,
+grades,Harvard: share of course grades that are a flat A,2022,57.9,
+grades,Harvard: share of course grades that are a flat A,2023,58.8,
+grades,Harvard: share of course grades that are a flat A,2024,58.8,
+grades,Harvard: share of course grades that are a flat A,2025,60.2,
+grades,Yale: share of grades that are A or A-,2011,67.23,
+grades,Yale: share of grades that are A or A-,2012,67.7,
+grades,Yale: share of grades that are A or A-,2013,68.09,
+grades,Yale: share of grades that are A or A-,2014,68.97,
+grades,Yale: share of grades that are A or A-,2015,69.06,
+grades,Yale: share of grades that are A or A-,2016,70.13,
+grades,Yale: share of grades that are A or A-,2017,70.89,
+grades,Yale: share of grades that are A or A-,2018,71.58,
+grades,Yale: share of grades that are A or A-,2019,72.95,
+grades,Yale: share of grades that are A or A-,2021,81.97,
+grades,Yale: share of grades that are A or A-,2022,79.62,
+grades,Yale: share of grades that are A or A-,2023,78.97,
+grades,England: share of first-class honours degrees,2011,15.8,
+grades,England: share of first-class honours degrees,2019,29.4,
+grades,England: share of first-class honours degrees,2021,37.7,
+grades,England: share of first-class honours degrees,2022,33.3,
+grades,England: share of first-class honours degrees,2023,29.6,
+grades,England: share of first-class honours degrees,2024,28.8,
+grades,Yale: share of grades that are a flat A,2011,40.5,
+grades,Yale: share of grades that are a flat A,2012,41.25,
+grades,Yale: share of grades that are a flat A,2013,41.45,
+grades,Yale: share of grades that are a flat A,2014,42.15,
+grades,Yale: share of grades that are a flat A,2015,42.14,
+grades,Yale: share of grades that are a flat A,2016,43.84,
+grades,Yale: share of grades that are a flat A,2017,44.59,
+grades,Yale: share of grades that are a flat A,2018,45.81,
+grades,Yale: share of grades that are a flat A,2019,48.02,
+grades,Yale: share of grades that are a flat A,2021,61.31,
+grades,Yale: share of grades that are a flat A,2022,57.86,
+grades,Yale: share of grades that are a flat A,2023,58.26,
+grades,"US, all colleges: share of grades that are A (Rojstaczer & Healy)",2008,43,
+grades,"US, all colleges: share of grades that are A (Rojstaczer & Healy)",2013,45,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",1995,7,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2000,8,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2005,12,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2010,14,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2015,22,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2016,23,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2017,26,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2018,28,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2019,28,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2020,35,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2021,36,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2022,32,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2023,30,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2024,29,
+grades,"UK: share of first-degree qualifiers awarded first-class honours (HESA, UK-wide)",2025,30,
+grades,UK: share of A-level entries graded A* or A (JCQ),1989,15.2,
+grades,UK: share of A-level entries graded A* or A (JCQ),1990,15.5,
+grades,UK: share of A-level entries graded A* or A (JCQ),1995,17.1,
+grades,UK: share of A-level entries graded A* or A (JCQ),2000,19.2,
+grades,UK: share of A-level entries graded A* or A (JCQ),2005,23.8,
+grades,UK: share of A-level entries graded A* or A (JCQ),2010,27.0,
+grades,UK: share of A-level entries graded A* or A (JCQ),2015,25.9,
+grades,UK: share of A-level entries graded A* or A (JCQ),2019,25.5,
+grades,UK: share of A-level entries graded A* or A (JCQ),2020,38.6,
+grades,UK: share of A-level entries graded A* or A (JCQ),2021,45.8,
+grades,UK: share of A-level entries graded A* or A (JCQ),2022,36.4,
+grades,UK: share of A-level entries graded A* or A (JCQ),2023,27.2,
+grades,UK: share of A-level entries graded A* or A (JCQ),2024,27.8,
+grades,UK: share of A-level entries graded A* or A (JCQ),2025,28.3,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2010,40.34,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2012,41.77,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2014,42.34,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2016,41.84,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2018,46.01,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2020,52.58,
+grades,US: share of ACT test takers with an A average (self-reported HSGPA),2021,54.92,
+skills,Finland,,,15.2
+skills,Denmark,,,8.8
+skills,Sweden,,,4.9
+skills,Norway,,,4.4
+skills,Flanders,,,3.0
+skills,Estonia,,,0.9
+skills,Germany,,,0.0
+skills,England,,,-0.5
+skills,Canada,,,-0.5
+skills,Netherlands,,,-1.7
+skills,Chile,,,-2.2
+skills,Spain,,,-2.8
+skills,Singapore,,,-3.1
+skills,Ireland,,,-3.3
+skills,Italy,,,-4.8
+skills,Japan,,,-5.5
+skills,France,,,-6.7
+skills,Czechia,,,-8.8
+skills,Israel,,,-10.3
+skills,Austria,,,-11.9
+skills,United States,,,-12.4
+skills,Hungary,,,-14.6
+skills,Slovak Rep.,,,-19.5
+skills,New Zealand,,,-21.1
+skills,Korea,,,-23.0
+skills,Lithuania,,,-28.4
+skills,Poland,,,-31.2
+skills_numeracy,Finland,,,16.7
+skills_numeracy,Singapore,,,16.7
+skills_numeracy,Estonia,,,9.3
+skills_numeracy,Chile,,,8.3
+skills_numeracy,Norway,,,8.3
+skills_numeracy,Denmark,,,7.7
+skills_numeracy,Netherlands,,,7.4
+skills_numeracy,England,,,7.0
+skills_numeracy,Canada,,,6.7
+skills_numeracy,Sweden,,,6.0
+skills_numeracy,Spain,,,5.9
+skills_numeracy,Germany,,,4.8
+skills_numeracy,Ireland,,,4.7
+skills_numeracy,Japan,,,4.1
+skills_numeracy,France,,,3.0
+skills_numeracy,Flanders,,,2.6
+skills_numeracy,Czechia,,,-2.6
+skills_numeracy,Italy,,,-2.6
+skills_numeracy,Israel,,,-4.3
+skills_numeracy,Austria,,,-4.8
+skills_numeracy,United States,,,-7.3
+skills_numeracy,Korea,,,-10.0
+skills_numeracy,Slovak Rep.,,,-14.7
+skills_numeracy,New Zealand,,,-15.4
+skills_numeracy,Hungary,,,-16.8
+skills_numeracy,Poland,,,-21.0
+skills_numeracy,Lithuania,,,-21.5
