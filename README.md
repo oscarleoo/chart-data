@@ -14,6 +14,7 @@ before the chart is published; the CSV here is exactly the data the chart render
 | What six years of food inflation cost, mapped | [`food-inflation-map.csv`](food-inflation-map/food-inflation-map.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), food (CP011), to July 2026 (Turkey and Kosovo excluded from the map) |
 | Six years of food inflation, country by country | [`food-inflation-table.csv`](food-inflation-table/food-inflation-table.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), food (CP011), to July 2026 |
 | Frozen fruit is Europe's new food fever | [`frozen-fruit-fever.csv`](frozen-fruit-fever/frozen-fruit-fever.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), to July 2026 (CP01166, frozen fruits; available for ~20 countries) |
+| Every country's most-inflated food | [`most-inflated-food-map.csv`](most-inflated-food-map/most-inflated-food-map.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), 29 food items, July 2020 to July 2026 (same-month comparison for seasonal fairness) |
 | Beef is surging in the North | [`northern-beef-surge.csv`](northern-beef-surge/northern-beef-surge.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), to July 2026 (CP011221, beef) |
 | Swedish groceries are getting cheaper | [`sweden-food-deflation.csv`](sweden-food-deflation/sweden-food-deflation.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), to July 2026 (CP011, food) |
 
