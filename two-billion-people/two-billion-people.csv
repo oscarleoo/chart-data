@@ -1,9 +1,9 @@
-step,change_billions
-World 2000,6.17
-Asia,1.03
-Africa,0.65
-North America,0.12
-South America,0.09
-Europe,0.02
-Oceania,0.01
-World 2023,8.09
+step,change_millions
+World 2020,7887
+Africa,169
+Asia,147
+North America,19
+South America,12
+Oceania,3
+Europe,-5
+World 2025,8232

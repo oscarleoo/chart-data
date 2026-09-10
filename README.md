@@ -15,16 +15,13 @@ before the chart is published; the CSV here is exactly the data the chart render
 | From famine to feast | [`famine-to-feast.csv`](famine-to-feast/famine-to-feast.csv) | FAO via Our World in Data, 1961-2023 |
 | The G7's century so far | [`g7-century.csv`](g7-century/g7-century.csv) | IMF World Economic Outlook database |
 | The geography of a long life | [`geography-of-long-life.csv`](geography-of-long-life/geography-of-long-life.csv) | World Bank, World Development Indicators, life expectancy at birth (SP.DYN.LE00.IN), 2023 |
-| The global baby bust, in one shape | [`global-baby-bust.csv`](global-baby-bust/global-baby-bust.csv) | World Bank, World Development Indicators, 2023 |
-| The health story nobody shares | [`health-story-nobody-shares.csv`](health-story-nobody-shares/health-story-nobody-shares.csv) | World Bank, World Development Indicators, life expectancy at birth, 2000 and 2023, countries with at least 5 million people |
+| Where life expectancy grew the most | [`health-story-nobody-shares.csv`](health-story-nobody-shares/health-story-nobody-shares.csv) | World Bank, World Development Indicators, life expectancy at birth, 2000 and 2023, countries with at least 5 million people |
 | Money buys life, up to a point | [`money-buys-life.csv`](money-buys-life/money-buys-life.csv) | World Bank, World Development Indicators, GDP per capita (current US$) and life expectancy at birth, 2023, countries with at least 1 million people |
 | Nuclear power just set a record | [`nuclear-record.csv`](nuclear-record/nuclear-record.csv) | Ember and Energy Institute via Our World in Data |
 | Solar just overtook wind | [`solar-overtook-wind.csv`](solar-overtook-wind/solar-overtook-wind.csv) | Ember and Energy Institute via Our World in Data, world electricity generation, 2000-2025 |
-| How the world added two billion people | [`two-billion-people.csv`](two-billion-people/two-billion-people.csv) | UN World Population Prospects via Our World in Data |
-| A quarter century of vanishing births | [`vanishing-births.csv`](vanishing-births/vanishing-births.csv) | World Bank, World Development Indicators, total fertility rate (SP.DYN.TFRT.IN), 2000 and 2024 |
-| The ten warmest years on record | [`warmest-years-on-record.csv`](warmest-years-on-record/warmest-years-on-record.csv) | NASA GISS Surface Temperature Analysis (GISTEMP v4) |
+| Five years, 345 million more people | [`two-billion-people.csv`](two-billion-people/two-billion-people.csv) | UN World Population Prospects via Our World in Data |
+| Sixty-five years of vanishing births | [`vanishing-births.csv`](vanishing-births/vanishing-births.csv) | World Bank, World Development Indicators, total fertility rate (SP.DYN.TFRT.IN), 2000 and 2024 |
 | Where the growth is in 2026 | [`where-the-growth-is.csv`](where-the-growth-is/where-the-growth-is.csv) | IMF World Economic Outlook, real GDP growth projections for 2026 |
-| Where the world lives | [`where-the-world-lives.csv`](where-the-world-lives/where-the-world-lives.csv) | UN World Population Prospects via Our World in Data, 2023 |
 | Who moved the world's CO2 | [`who-moved-co2.csv`](who-moved-co2/who-moved-co2.csv) | Global Carbon Budget via Our World in Data, fossil CO2 emissions, 2015 and 2024 |
 | What the world's electricity is made of | [`world-electricity-mix.csv`](world-electricity-mix/world-electricity-mix.csv) | Ember via Our World in Data, world electricity generation shares, 2025 |
 

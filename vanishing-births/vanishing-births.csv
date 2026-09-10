@@ -1,16 +1,976 @@
-country,fertility_2000,fertility_2024
-Nigeria,6.12,4.38
-Egypt,3.5,2.73
-India,3.35,1.96
-Bangladesh,3.28,2.14
-Mexico,2.71,1.89
-Indonesia,2.5,2.12
-Turkey,2.49,1.48
-Brazil,2.25,1.61
-United States,2.06,1.63
-France,1.89,1.61
-China,1.63,1.01
-South Korea,1.48,0.75
-Germany,1.38,1.36
-Japan,1.36,1.15
-Italy,1.26,1.18
+year,country,births_per_woman
+1960,Nigeria,6.36
+1961,Nigeria,6.35
+1962,Nigeria,6.36
+1963,Nigeria,6.35
+1964,Nigeria,6.36
+1965,Nigeria,6.37
+1966,Nigeria,6.39
+1967,Nigeria,6.4
+1968,Nigeria,6.42
+1969,Nigeria,6.44
+1970,Nigeria,6.47
+1971,Nigeria,6.53
+1972,Nigeria,6.58
+1973,Nigeria,6.63
+1974,Nigeria,6.7
+1975,Nigeria,6.77
+1976,Nigeria,6.81
+1977,Nigeria,6.86
+1978,Nigeria,6.92
+1979,Nigeria,6.89
+1980,Nigeria,6.85
+1981,Nigeria,6.82
+1982,Nigeria,6.8
+1983,Nigeria,6.78
+1984,Nigeria,6.7
+1985,Nigeria,6.62
+1986,Nigeria,6.56
+1987,Nigeria,6.5
+1988,Nigeria,6.5
+1989,Nigeria,6.49
+1990,Nigeria,6.46
+1991,Nigeria,6.43
+1992,Nigeria,6.39
+1993,Nigeria,6.35
+1994,Nigeria,6.32
+1995,Nigeria,6.27
+1996,Nigeria,6.22
+1997,Nigeria,6.14
+1998,Nigeria,6.07
+1999,Nigeria,6.08
+2000,Nigeria,6.12
+2001,Nigeria,6.13
+2002,Nigeria,6.12
+2003,Nigeria,6.1
+2004,Nigeria,6.09
+2005,Nigeria,6.06
+2006,Nigeria,6.05
+2007,Nigeria,6.03
+2008,Nigeria,6.02
+2009,Nigeria,5.99
+2010,Nigeria,5.95
+2011,Nigeria,5.89
+2012,Nigeria,5.8
+2013,Nigeria,5.69
+2014,Nigeria,5.62
+2015,Nigeria,5.5
+2016,Nigeria,5.34
+2017,Nigeria,5.18
+2018,Nigeria,5.02
+2019,Nigeria,4.86
+2020,Nigeria,4.7
+2021,Nigeria,4.64
+2022,Nigeria,4.55
+2023,Nigeria,4.48
+2024,Nigeria,4.38
+1960,Egypt,6.79
+1961,Egypt,6.76
+1962,Egypt,6.71
+1963,Egypt,6.65
+1964,Egypt,6.54
+1965,Egypt,6.39
+1966,Egypt,6.31
+1967,Egypt,6.25
+1968,Egypt,6.19
+1969,Egypt,6.12
+1970,Egypt,6.06
+1971,Egypt,5.99
+1972,Egypt,5.93
+1973,Egypt,5.84
+1974,Egypt,5.78
+1975,Egypt,5.75
+1976,Egypt,5.73
+1977,Egypt,5.68
+1978,Egypt,5.63
+1979,Egypt,5.57
+1980,Egypt,5.49
+1981,Egypt,5.37
+1982,Egypt,5.33
+1983,Egypt,5.31
+1984,Egypt,5.21
+1985,Egypt,5.12
+1986,Egypt,5.0
+1987,Egypt,4.91
+1988,Egypt,4.83
+1989,Egypt,4.68
+1990,Egypt,4.51
+1991,Egypt,4.32
+1992,Egypt,4.15
+1993,Egypt,3.99
+1994,Egypt,3.87
+1995,Egypt,3.76
+1996,Egypt,3.7
+1997,Egypt,3.68
+1998,Egypt,3.68
+1999,Egypt,3.6
+2000,Egypt,3.5
+2001,Egypt,3.46
+2002,Egypt,3.41
+2003,Egypt,3.35
+2004,Egypt,3.28
+2005,Egypt,3.25
+2006,Egypt,3.22
+2007,Egypt,3.24
+2008,Egypt,3.24
+2009,Egypt,3.26
+2010,Egypt,3.3
+2011,Egypt,3.31
+2012,Egypt,3.4
+2013,Egypt,3.49
+2014,Egypt,3.49
+2015,Egypt,3.5
+2016,Egypt,3.35
+2017,Egypt,3.31
+2018,Egypt,3.02
+2019,Egypt,2.87
+2020,Egypt,2.85
+2021,Egypt,2.75
+2022,Egypt,2.75
+2023,Egypt,2.75
+2024,Egypt,2.73
+1960,Bangladesh,6.74
+1961,Bangladesh,6.78
+1962,Bangladesh,6.81
+1963,Bangladesh,6.8
+1964,Bangladesh,6.79
+1965,Bangladesh,6.77
+1966,Bangladesh,6.77
+1967,Bangladesh,6.79
+1968,Bangladesh,6.79
+1969,Bangladesh,6.81
+1970,Bangladesh,6.84
+1971,Bangladesh,6.83
+1972,Bangladesh,6.82
+1973,Bangladesh,6.8
+1974,Bangladesh,6.78
+1975,Bangladesh,6.73
+1976,Bangladesh,6.66
+1977,Bangladesh,6.58
+1978,Bangladesh,6.51
+1979,Bangladesh,6.42
+1980,Bangladesh,6.33
+1981,Bangladesh,6.24
+1982,Bangladesh,6.12
+1983,Bangladesh,5.91
+1984,Bangladesh,5.73
+1985,Bangladesh,5.54
+1986,Bangladesh,5.3
+1987,Bangladesh,5.08
+1988,Bangladesh,4.85
+1989,Bangladesh,4.7
+1990,Bangladesh,4.51
+1991,Bangladesh,4.26
+1992,Bangladesh,4.03
+1993,Bangladesh,3.83
+1994,Bangladesh,3.74
+1995,Bangladesh,3.59
+1996,Bangladesh,3.5
+1997,Bangladesh,3.5
+1998,Bangladesh,3.43
+1999,Bangladesh,3.36
+2000,Bangladesh,3.28
+2001,Bangladesh,3.2
+2002,Bangladesh,3.13
+2003,Bangladesh,3.03
+2004,Bangladesh,2.94
+2005,Bangladesh,2.85
+2006,Bangladesh,2.75
+2007,Bangladesh,2.67
+2008,Bangladesh,2.58
+2009,Bangladesh,2.48
+2010,Bangladesh,2.38
+2011,Bangladesh,2.31
+2012,Bangladesh,2.26
+2013,Bangladesh,2.25
+2014,Bangladesh,2.23
+2015,Bangladesh,2.23
+2016,Bangladesh,2.23
+2017,Bangladesh,2.21
+2018,Bangladesh,2.19
+2019,Bangladesh,2.18
+2020,Bangladesh,2.17
+2021,Bangladesh,2.17
+2022,Bangladesh,2.18
+2023,Bangladesh,2.16
+2024,Bangladesh,2.14
+1960,Indonesia,5.5
+1961,Indonesia,5.52
+1962,Indonesia,5.53
+1963,Indonesia,5.55
+1964,Indonesia,5.57
+1965,Indonesia,5.59
+1966,Indonesia,5.59
+1967,Indonesia,5.58
+1968,Indonesia,5.57
+1969,Indonesia,5.55
+1970,Indonesia,5.49
+1971,Indonesia,5.4
+1972,Indonesia,5.32
+1973,Indonesia,5.25
+1974,Indonesia,5.09
+1975,Indonesia,5.03
+1976,Indonesia,4.92
+1977,Indonesia,4.81
+1978,Indonesia,4.73
+1979,Indonesia,4.62
+1980,Indonesia,4.5
+1981,Indonesia,4.36
+1982,Indonesia,4.25
+1983,Indonesia,4.11
+1984,Indonesia,3.96
+1985,Indonesia,3.73
+1986,Indonesia,3.53
+1987,Indonesia,3.42
+1988,Indonesia,3.35
+1989,Indonesia,3.25
+1990,Indonesia,3.11
+1991,Indonesia,3.06
+1992,Indonesia,2.95
+1993,Indonesia,2.9
+1994,Indonesia,2.85
+1995,Indonesia,2.81
+1996,Indonesia,2.78
+1997,Indonesia,2.74
+1998,Indonesia,2.66
+1999,Indonesia,2.57
+2000,Indonesia,2.5
+2001,Indonesia,2.47
+2002,Indonesia,2.44
+2003,Indonesia,2.41
+2004,Indonesia,2.42
+2005,Indonesia,2.45
+2006,Indonesia,2.46
+2007,Indonesia,2.48
+2008,Indonesia,2.44
+2009,Indonesia,2.44
+2010,Indonesia,2.46
+2011,Indonesia,2.52
+2012,Indonesia,2.51
+2013,Indonesia,2.44
+2014,Indonesia,2.39
+2015,Indonesia,2.35
+2016,Indonesia,2.31
+2017,Indonesia,2.25
+2018,Indonesia,2.22
+2019,Indonesia,2.21
+2020,Indonesia,2.19
+2021,Indonesia,2.17
+2022,Indonesia,2.15
+2023,Indonesia,2.13
+2024,Indonesia,2.12
+1960,India,5.92
+1961,India,5.94
+1962,India,5.95
+1963,India,5.97
+1964,India,5.98
+1965,India,5.94
+1966,India,5.88
+1967,India,5.83
+1968,India,5.76
+1969,India,5.68
+1970,India,5.62
+1971,India,5.57
+1972,India,5.48
+1973,India,5.4
+1974,India,5.33
+1975,India,5.2
+1976,India,5.13
+1977,India,5.01
+1978,India,4.89
+1979,India,4.81
+1980,India,4.78
+1981,India,4.7
+1982,India,4.62
+1983,India,4.57
+1984,India,4.52
+1985,India,4.43
+1986,India,4.4
+1987,India,4.31
+1988,India,4.22
+1989,India,4.13
+1990,India,4.04
+1991,India,3.96
+1992,India,3.88
+1993,India,3.8
+1994,India,3.72
+1995,India,3.65
+1996,India,3.58
+1997,India,3.51
+1998,India,3.45
+1999,India,3.38
+2000,India,3.35
+2001,India,3.3
+2002,India,3.22
+2003,India,3.12
+2004,India,3.05
+2005,India,2.96
+2006,India,2.87
+2007,India,2.77
+2008,India,2.71
+2009,India,2.67
+2010,India,2.6
+2011,India,2.53
+2012,India,2.47
+2013,India,2.4
+2014,India,2.29
+2015,India,2.29
+2016,India,2.28
+2017,India,2.19
+2018,India,2.18
+2019,India,2.12
+2020,India,2.05
+2021,India,2.01
+2022,India,1.99
+2023,India,1.98
+2024,India,1.96
+1960,Mexico,6.76
+1961,Mexico,6.78
+1962,Mexico,6.8
+1963,Mexico,6.82
+1964,Mexico,6.83
+1965,Mexico,6.82
+1966,Mexico,6.79
+1967,Mexico,6.75
+1968,Mexico,6.71
+1969,Mexico,6.63
+1970,Mexico,6.53
+1971,Mexico,6.42
+1972,Mexico,6.28
+1973,Mexico,6.12
+1974,Mexico,5.95
+1975,Mexico,5.74
+1976,Mexico,5.54
+1977,Mexico,5.36
+1978,Mexico,5.2
+1979,Mexico,4.96
+1980,Mexico,4.74
+1981,Mexico,4.57
+1982,Mexico,4.42
+1983,Mexico,4.3
+1984,Mexico,4.18
+1985,Mexico,4.09
+1986,Mexico,3.97
+1987,Mexico,3.8
+1988,Mexico,3.64
+1989,Mexico,3.53
+1990,Mexico,3.44
+1991,Mexico,3.36
+1992,Mexico,3.29
+1993,Mexico,3.21
+1994,Mexico,3.13
+1995,Mexico,3.04
+1996,Mexico,2.96
+1997,Mexico,2.89
+1998,Mexico,2.81
+1999,Mexico,2.76
+2000,Mexico,2.71
+2001,Mexico,2.67
+2002,Mexico,2.63
+2003,Mexico,2.58
+2004,Mexico,2.54
+2005,Mexico,2.5
+2006,Mexico,2.46
+2007,Mexico,2.42
+2008,Mexico,2.39
+2009,Mexico,2.36
+2010,Mexico,2.34
+2011,Mexico,2.32
+2012,Mexico,2.29
+2013,Mexico,2.27
+2014,Mexico,2.21
+2015,Mexico,2.14
+2016,Mexico,2.09
+2017,Mexico,2.04
+2018,Mexico,2.03
+2019,Mexico,2.02
+2020,Mexico,1.99
+2021,Mexico,1.97
+2022,Mexico,1.94
+2023,Mexico,1.91
+2024,Mexico,1.89
+1960,United States,3.65
+1961,United States,3.62
+1962,United States,3.46
+1963,United States,3.32
+1964,United States,3.19
+1965,United States,2.91
+1966,United States,2.72
+1967,United States,2.56
+1968,United States,2.46
+1969,United States,2.46
+1970,United States,2.48
+1971,United States,2.27
+1972,United States,2.01
+1973,United States,1.88
+1974,United States,1.83
+1975,United States,1.77
+1976,United States,1.74
+1977,United States,1.79
+1978,United States,1.76
+1979,United States,1.81
+1980,United States,1.84
+1981,United States,1.81
+1982,United States,1.83
+1983,United States,1.8
+1984,United States,1.81
+1985,United States,1.84
+1986,United States,1.84
+1987,United States,1.87
+1988,United States,1.93
+1989,United States,2.01
+1990,United States,2.08
+1991,United States,2.06
+1992,United States,2.05
+1993,United States,2.02
+1994,United States,2.0
+1995,United States,1.98
+1996,United States,1.98
+1997,United States,1.97
+1998,United States,2.0
+1999,United States,2.01
+2000,United States,2.06
+2001,United States,2.03
+2002,United States,2.02
+2003,United States,2.05
+2004,United States,2.05
+2005,United States,2.06
+2006,United States,2.11
+2007,United States,2.12
+2008,United States,2.07
+2009,United States,2.0
+2010,United States,1.93
+2011,United States,1.89
+2012,United States,1.88
+2013,United States,1.86
+2014,United States,1.86
+2015,United States,1.84
+2016,United States,1.82
+2017,United States,1.77
+2018,United States,1.73
+2019,United States,1.71
+2020,United States,1.64
+2021,United States,1.66
+2022,United States,1.66
+2023,United States,1.62
+2024,United States,1.63
+1960,Brazil,6.05
+1961,Brazil,6.02
+1962,Brazil,5.98
+1963,Brazil,5.93
+1964,Brazil,5.82
+1965,Brazil,5.68
+1966,Brazil,5.52
+1967,Brazil,5.34
+1968,Brazil,5.17
+1969,Brazil,5.04
+1970,Brazil,4.93
+1971,Brazil,4.84
+1972,Brazil,4.74
+1973,Brazil,4.64
+1974,Brazil,4.5
+1975,Brazil,4.42
+1976,Brazil,4.34
+1977,Brazil,4.27
+1978,Brazil,4.2
+1979,Brazil,4.12
+1980,Brazil,4.04
+1981,Brazil,3.94
+1982,Brazil,3.84
+1983,Brazil,3.72
+1984,Brazil,3.6
+1985,Brazil,3.48
+1986,Brazil,3.36
+1987,Brazil,3.23
+1988,Brazil,3.11
+1989,Brazil,3.01
+1990,Brazil,2.9
+1991,Brazil,2.81
+1992,Brazil,2.71
+1993,Brazil,2.66
+1994,Brazil,2.6
+1995,Brazil,2.57
+1996,Brazil,2.51
+1997,Brazil,2.47
+1998,Brazil,2.42
+1999,Brazil,2.33
+2000,Brazil,2.25
+2001,Brazil,2.16
+2002,Brazil,2.08
+2003,Brazil,2.01
+2004,Brazil,1.97
+2005,Brazil,1.94
+2006,Brazil,1.9
+2007,Brazil,1.85
+2008,Brazil,1.81
+2009,Brazil,1.8
+2010,Brazil,1.79
+2011,Brazil,1.78
+2012,Brazil,1.77
+2013,Brazil,1.76
+2014,Brazil,1.77
+2015,Brazil,1.78
+2016,Brazil,1.73
+2017,Brazil,1.74
+2018,Brazil,1.74
+2019,Brazil,1.71
+2020,Brazil,1.65
+2021,Brazil,1.64
+2022,Brazil,1.63
+2023,Brazil,1.62
+2024,Brazil,1.61
+1960,France,2.85
+1961,France,2.87
+1962,France,2.89
+1963,France,2.89
+1964,France,2.87
+1965,France,2.84
+1966,France,2.8
+1967,France,2.75
+1968,France,2.69
+1969,France,2.62
+1970,France,2.55
+1971,France,2.47
+1972,France,2.38
+1973,France,2.28
+1974,France,2.18
+1975,France,2.09
+1976,France,2.01
+1977,France,1.94
+1978,France,1.89
+1979,France,1.87
+1980,France,1.85
+1981,France,1.85
+1982,France,1.86
+1983,France,1.86
+1984,France,1.86
+1985,France,1.86
+1986,France,1.85
+1987,France,1.83
+1988,France,1.81
+1989,France,1.79
+1990,France,1.77
+1991,France,1.75
+1992,France,1.74
+1993,France,1.73
+1994,France,1.73
+1995,France,1.74
+1996,France,1.75
+1997,France,1.77
+1998,France,1.78
+1999,France,1.81
+2000,France,1.89
+2001,France,1.9
+2002,France,1.88
+2003,France,1.89
+2004,France,1.92
+2005,France,1.94
+2006,France,2.0
+2007,France,1.98
+2008,France,2.01
+2009,France,2.0
+2010,France,2.03
+2011,France,2.01
+2012,France,2.01
+2013,France,1.99
+2014,France,2.0
+2015,France,1.96
+2016,France,1.92
+2017,France,1.89
+2018,France,1.87
+2019,France,1.86
+2020,France,1.82
+2021,France,1.83
+2022,France,1.78
+2023,France,1.66
+2024,France,1.61
+1960,Turkey,6.38
+1961,Turkey,6.42
+1962,Turkey,6.38
+1963,Turkey,6.34
+1964,Turkey,6.29
+1965,Turkey,6.22
+1966,Turkey,6.15
+1967,Turkey,6.06
+1968,Turkey,5.96
+1969,Turkey,5.87
+1970,Turkey,5.78
+1971,Turkey,5.67
+1972,Turkey,5.55
+1973,Turkey,5.41
+1974,Turkey,5.24
+1975,Turkey,5.09
+1976,Turkey,4.93
+1977,Turkey,4.78
+1978,Turkey,4.69
+1979,Turkey,4.58
+1980,Turkey,4.45
+1981,Turkey,4.35
+1982,Turkey,4.21
+1983,Turkey,4.06
+1984,Turkey,3.91
+1985,Turkey,3.78
+1986,Turkey,3.66
+1987,Turkey,3.54
+1988,Turkey,3.44
+1989,Turkey,3.34
+1990,Turkey,3.11
+1991,Turkey,3.0
+1992,Turkey,2.94
+1993,Turkey,2.92
+1994,Turkey,2.87
+1995,Turkey,2.83
+1996,Turkey,2.78
+1997,Turkey,2.74
+1998,Turkey,2.71
+1999,Turkey,2.63
+2000,Turkey,2.49
+2001,Turkey,2.39
+2002,Turkey,2.27
+2003,Turkey,2.2
+2004,Turkey,2.2
+2005,Turkey,2.2
+2006,Turkey,2.19
+2007,Turkey,2.16
+2008,Turkey,2.15
+2009,Turkey,2.1
+2010,Turkey,2.08
+2011,Turkey,2.05
+2012,Turkey,2.11
+2013,Turkey,2.11
+2014,Turkey,2.19
+2015,Turkey,2.16
+2016,Turkey,2.11
+2017,Turkey,2.08
+2018,Turkey,2.0
+2019,Turkey,1.89
+2020,Turkey,1.77
+2021,Turkey,1.71
+2022,Turkey,1.63
+2023,Turkey,1.51
+2024,Turkey,1.48
+1960,Germany,2.37
+1961,Germany,2.45
+1962,Germany,2.44
+1963,Germany,2.51
+1964,Germany,2.54
+1965,Germany,2.5
+1966,Germany,2.53
+1967,Germany,2.48
+1968,Germany,2.38
+1969,Germany,2.21
+1970,Germany,2.03
+1971,Germany,1.92
+1972,Germany,1.71
+1973,Germany,1.54
+1974,Germany,1.51
+1975,Germany,1.45
+1976,Germany,1.45
+1977,Germany,1.4
+1978,Germany,1.38
+1979,Germany,1.38
+1980,Germany,1.44
+1981,Germany,1.43
+1982,Germany,1.41
+1983,Germany,1.33
+1984,Germany,1.29
+1985,Germany,1.37
+1986,Germany,1.43
+1987,Germany,1.43
+1988,Germany,1.46
+1989,Germany,1.42
+1990,Germany,1.45
+1991,Germany,1.33
+1992,Germany,1.29
+1993,Germany,1.28
+1994,Germany,1.24
+1995,Germany,1.25
+1996,Germany,1.3
+1997,Germany,1.35
+1998,Germany,1.36
+1999,Germany,1.36
+2000,Germany,1.38
+2001,Germany,1.35
+2002,Germany,1.34
+2003,Germany,1.34
+2004,Germany,1.36
+2005,Germany,1.34
+2006,Germany,1.33
+2007,Germany,1.37
+2008,Germany,1.38
+2009,Germany,1.36
+2010,Germany,1.39
+2011,Germany,1.39
+2012,Germany,1.41
+2013,Germany,1.42
+2014,Germany,1.47
+2015,Germany,1.5
+2016,Germany,1.6
+2017,Germany,1.57
+2018,Germany,1.57
+2019,Germany,1.54
+2020,Germany,1.53
+2021,Germany,1.58
+2022,Germany,1.46
+2023,Germany,1.39
+2024,Germany,1.36
+1960,Italy,2.4
+1961,Italy,2.44
+1962,Italy,2.46
+1963,Italy,2.51
+1964,Italy,2.66
+1965,Italy,2.6
+1966,Italy,2.58
+1967,Italy,2.5
+1968,Italy,2.46
+1969,Italy,2.47
+1970,Italy,2.38
+1971,Italy,2.4
+1972,Italy,2.35
+1973,Italy,2.3
+1974,Italy,2.28
+1975,Italy,2.17
+1976,Italy,2.04
+1977,Italy,1.93
+1978,Italy,1.84
+1979,Italy,1.73
+1980,Italy,1.64
+1981,Italy,1.58
+1982,Italy,1.56
+1983,Italy,1.51
+1984,Italy,1.46
+1985,Italy,1.42
+1986,Italy,1.35
+1987,Italy,1.33
+1988,Italy,1.36
+1989,Italy,1.33
+1990,Italy,1.33
+1991,Italy,1.3
+1992,Italy,1.3
+1993,Italy,1.25
+1994,Italy,1.21
+1995,Italy,1.19
+1996,Italy,1.2
+1997,Italy,1.22
+1998,Italy,1.22
+1999,Italy,1.23
+2000,Italy,1.26
+2001,Italy,1.25
+2002,Italy,1.27
+2003,Italy,1.29
+2004,Italy,1.34
+2005,Italy,1.33
+2006,Italy,1.37
+2007,Italy,1.39
+2008,Italy,1.44
+2009,Italy,1.44
+2010,Italy,1.44
+2011,Italy,1.42
+2012,Italy,1.42
+2013,Italy,1.39
+2014,Italy,1.38
+2015,Italy,1.36
+2016,Italy,1.36
+2017,Italy,1.34
+2018,Italy,1.31
+2019,Italy,1.27
+2020,Italy,1.24
+2021,Italy,1.25
+2022,Italy,1.24
+2023,Italy,1.21
+2024,Italy,1.18
+1960,Japan,2.0
+1961,Japan,1.96
+1962,Japan,1.98
+1963,Japan,2.0
+1964,Japan,2.05
+1965,Japan,2.14
+1966,Japan,1.58
+1967,Japan,2.23
+1968,Japan,2.13
+1969,Japan,2.13
+1970,Japan,2.13
+1971,Japan,2.16
+1972,Japan,2.14
+1973,Japan,2.14
+1974,Japan,2.05
+1975,Japan,1.91
+1976,Japan,1.85
+1977,Japan,1.8
+1978,Japan,1.79
+1979,Japan,1.77
+1980,Japan,1.75
+1981,Japan,1.74
+1982,Japan,1.77
+1983,Japan,1.8
+1984,Japan,1.81
+1985,Japan,1.76
+1986,Japan,1.72
+1987,Japan,1.69
+1988,Japan,1.66
+1989,Japan,1.57
+1990,Japan,1.54
+1991,Japan,1.53
+1992,Japan,1.5
+1993,Japan,1.46
+1994,Japan,1.5
+1995,Japan,1.42
+1996,Japan,1.43
+1997,Japan,1.39
+1998,Japan,1.38
+1999,Japan,1.34
+2000,Japan,1.36
+2001,Japan,1.33
+2002,Japan,1.32
+2003,Japan,1.29
+2004,Japan,1.29
+2005,Japan,1.26
+2006,Japan,1.32
+2007,Japan,1.34
+2008,Japan,1.37
+2009,Japan,1.37
+2010,Japan,1.39
+2011,Japan,1.39
+2012,Japan,1.41
+2013,Japan,1.43
+2014,Japan,1.42
+2015,Japan,1.45
+2016,Japan,1.44
+2017,Japan,1.43
+2018,Japan,1.42
+2019,Japan,1.36
+2020,Japan,1.33
+2021,Japan,1.3
+2022,Japan,1.26
+2023,Japan,1.2
+2024,Japan,1.15
+1960,China,4.45
+1961,China,3.86
+1962,China,6.08
+1963,China,7.51
+1964,China,6.67
+1965,China,6.61
+1966,China,6.31
+1967,China,5.81
+1968,China,6.51
+1969,China,6.17
+1970,China,6.08
+1971,China,5.52
+1972,China,5.11
+1973,China,4.73
+1974,China,4.17
+1975,China,3.57
+1976,China,3.23
+1977,China,2.84
+1978,China,2.72
+1979,China,2.75
+1980,China,2.74
+1981,China,2.79
+1982,China,2.97
+1983,China,2.56
+1984,China,2.61
+1985,China,2.63
+1986,China,2.72
+1987,China,2.76
+1988,China,2.54
+1989,China,2.52
+1990,China,2.51
+1991,China,1.93
+1992,China,1.78
+1993,China,1.69
+1994,China,1.63
+1995,China,1.59
+1996,China,1.55
+1997,China,1.53
+1998,China,1.52
+1999,China,1.53
+2000,China,1.63
+2001,China,1.56
+2002,China,1.57
+2003,China,1.57
+2004,China,1.6
+2005,China,1.62
+2006,China,1.64
+2007,China,1.67
+2008,China,1.7
+2009,China,1.71
+2010,China,1.69
+2011,China,1.67
+2012,China,1.8
+2013,China,1.71
+2014,China,1.77
+2015,China,1.67
+2016,China,1.77
+2017,China,1.79
+2018,China,1.54
+2019,China,1.5
+2020,China,1.24
+2021,China,1.12
+2022,China,1.03
+2023,China,1.0
+2024,China,1.01
+1960,South Korea,5.99
+1961,South Korea,5.8
+1962,South Korea,5.56
+1963,South Korea,5.33
+1964,South Korea,5.07
+1965,South Korea,4.89
+1966,South Korea,4.78
+1967,South Korea,4.62
+1968,South Korea,4.51
+1969,South Korea,4.45
+1970,South Korea,4.53
+1971,South Korea,4.54
+1972,South Korea,4.12
+1973,South Korea,4.07
+1974,South Korea,3.77
+1975,South Korea,3.43
+1976,South Korea,3.0
+1977,South Korea,2.99
+1978,South Korea,2.64
+1979,South Korea,2.9
+1980,South Korea,2.82
+1981,South Korea,2.57
+1982,South Korea,2.39
+1983,South Korea,2.06
+1984,South Korea,1.74
+1985,South Korea,1.66
+1986,South Korea,1.58
+1987,South Korea,1.53
+1988,South Korea,1.55
+1989,South Korea,1.56
+1990,South Korea,1.57
+1991,South Korea,1.71
+1992,South Korea,1.76
+1993,South Korea,1.65
+1994,South Korea,1.66
+1995,South Korea,1.63
+1996,South Korea,1.57
+1997,South Korea,1.54
+1998,South Korea,1.46
+1999,South Korea,1.43
+2000,South Korea,1.48
+2001,South Korea,1.31
+2002,South Korea,1.18
+2003,South Korea,1.19
+2004,South Korea,1.16
+2005,South Korea,1.08
+2006,South Korea,1.13
+2007,South Korea,1.26
+2008,South Korea,1.19
+2009,South Korea,1.15
+2010,South Korea,1.23
+2011,South Korea,1.24
+2012,South Korea,1.3
+2013,South Korea,1.19
+2014,South Korea,1.21
+2015,South Korea,1.24
+2016,South Korea,1.17
+2017,South Korea,1.05
+2018,South Korea,0.98
+2019,South Korea,0.92
+2020,South Korea,0.84
+2021,South Korea,0.81
+2022,South Korea,0.78
+2023,South Korea,0.72
+2024,South Korea,0.75
