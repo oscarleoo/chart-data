@@ -21,7 +21,7 @@ before the chart is published; the CSV here is exactly the data the chart render
 | Where life expectancy grew the most | [`health-story-nobody-shares.csv`](health-story-nobody-shares/health-story-nobody-shares.csv) | World Bank, World Development Indicators, life expectancy at birth, 2000 and 2023, countries with at least 5 million people |
 | Forty years of keeping the lights on | [`lights-on.csv`](lights-on/lights-on.csv) | Ember and Energy Institute via Our World in Data |
 | Money buys life, up to a point | [`money-buys-life.csv`](money-buys-life/money-buys-life.csv) | World Bank, World Development Indicators, GDP per capita (current US$) and life expectancy at birth, 2023, countries with at least 1 million people |
-| Nuclear power just set a record | [`nuclear-record.csv`](nuclear-record/nuclear-record.csv) | Ember and Energy Institute via Our World in Data |
+| Nuclear power set a new record in 2025 | [`nuclear-record.csv`](nuclear-record/nuclear-record.csv) | Ember and Energy Institute via Our World in Data |
 | Solar just overtook wind | [`solar-overtook-wind.csv`](solar-overtook-wind/solar-overtook-wind.csv) | Ember and Energy Institute via Our World in Data, world electricity generation, 2000-2025 |
 | Five years, 345 million more people | [`two-billion-people.csv`](two-billion-people/two-billion-people.csv) | UN World Population Prospects via Our World in Data |
 | America's uneven job market | [`us-jobs-map.csv`](us-jobs-map/us-jobs-map.csv) | US Bureau of Labor Statistics, LAUS, state unemployment rates, July 2026 (seasonally adjusted) |
