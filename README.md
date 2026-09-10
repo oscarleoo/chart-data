@@ -15,7 +15,7 @@ before the chart is published; the CSV here is exactly the data the chart render
 | The electricity superpower | [`electricity-superpower.csv`](electricity-superpower/electricity-superpower.csv) | Ember and Energy Institute via Our World in Data |
 | Every month on Earth since 1950 | [`every-month-on-earth.csv`](every-month-on-earth/every-month-on-earth.csv) | NASA GISS Surface Temperature Analysis (GISTEMP v4), monthly global means, to May 2026 |
 | From famine to feast | [`famine-to-feast.csv`](famine-to-feast/famine-to-feast.csv) | FAO via Our World in Data, 1961-2023 |
-| What six years of food inflation cost, mapped | [`food-inflation-map.csv`](food-inflation-map/food-inflation-map.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), food (CP011), to July 2026 (Turkey and Kosovo excluded from the map) |
+| Six years of food inflation in the EU | [`food-inflation-map.csv`](food-inflation-map/food-inflation-map.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), food (CP011), to July 2026 (Turkey and Kosovo excluded from the map) |
 | The G7's century so far | [`g7-century.csv`](g7-century/g7-century.csv) | IMF World Economic Outlook database |
 | The geography of a long life | [`geography-of-long-life.csv`](geography-of-long-life/geography-of-long-life.csv) | World Bank, World Development Indicators, life expectancy at birth (SP.DYN.LE00.IN), 2023 |
 | Where life expectancy grew the most | [`health-story-nobody-shares.csv`](health-story-nobody-shares/health-story-nobody-shares.csv) | World Bank, World Development Indicators, life expectancy at birth, 2000 and 2023, countries with at least 5 million people |
@@ -25,7 +25,7 @@ before the chart is published; the CSV here is exactly the data the chart render
 | Solar just overtook wind | [`solar-overtook-wind.csv`](solar-overtook-wind/solar-overtook-wind.csv) | Ember and Energy Institute via Our World in Data, world electricity generation, 2000-2025 |
 | Five years, 345 million more people | [`two-billion-people.csv`](two-billion-people/two-billion-people.csv) | UN World Population Prospects via Our World in Data |
 | America's uneven job market | [`us-jobs-map.csv`](us-jobs-map/us-jobs-map.csv) | US Bureau of Labor Statistics, LAUS, state unemployment rates, July 2026 (seasonally adjusted) |
-| Sixty-five years of vanishing births | [`vanishing-births.csv`](vanishing-births/vanishing-births.csv) | World Bank, World Development Indicators, total fertility rate (SP.DYN.TFRT.IN), 2000 and 2024 |
+| Sixty-five years of vanishing births | [`vanishing-births.csv`](vanishing-births/vanishing-births.csv) | World Bank, World Development Indicators, total fertility rate (SP.DYN.TFRT.IN), 1960-2024, all 159 countries with at least 1M people |
 | Where the growth is in 2026 | [`where-the-growth-is.csv`](where-the-growth-is/where-the-growth-is.csv) | IMF World Economic Outlook, real GDP growth projections for 2026 |
 | Who moved the world's CO2 | [`who-moved-co2.csv`](who-moved-co2/who-moved-co2.csv) | Global Carbon Budget via Our World in Data, fossil CO2 emissions, 2015 and 2024 |
 | What the world's electricity is made of | [`world-electricity-mix.csv`](world-electricity-mix/world-electricity-mix.csv) | Ember via Our World in Data, world electricity generation shares, 2025 |
