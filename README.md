@@ -24,6 +24,7 @@ before the chart is published; the CSV here is exactly the data the chart render
 | Nuclear power set a new record in 2025 | [`nuclear-record.csv`](nuclear-record/nuclear-record.csv) | Ember and Energy Institute via Our World in Data |
 | Solar just overtook wind | [`solar-overtook-wind.csv`](solar-overtook-wind/solar-overtook-wind.csv) | Ember and Energy Institute via Our World in Data, world electricity generation, 2000-2025 |
 | How solar caught wind | [`solar-wind-year-by-year.csv`](solar-wind-year-by-year/solar-wind-year-by-year.csv) | Ember and Energy Institute via Our World in Data, world electricity generation 2000-2025 |
+| South America's growth since 2020 | [`south-america-growth.csv`](south-america-growth/south-america-growth.csv) | IMF World Economic Outlook, real GDP growth, compounded 2021-2026 (2025 and 2026 are projections), all 12 South American countries |
 | Five years, 345 million more people | [`two-billion-people.csv`](two-billion-people/two-billion-people.csv) | UN World Population Prospects via Our World in Data |
 | America's uneven job market | [`us-jobs-map.csv`](us-jobs-map/us-jobs-map.csv) | US Bureau of Labor Statistics, LAUS, state unemployment rates, July 2026 (seasonally adjusted) |
 | Sixty-five years of vanishing births | [`vanishing-births.csv`](vanishing-births/vanishing-births.csv) | World Bank, World Development Indicators, total fertility rate (SP.DYN.TFRT.IN), 1960-2024, all 159 countries with at least 1M people |
