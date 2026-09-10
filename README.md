@@ -17,6 +17,7 @@ before the chart is published; the CSV here is exactly the data the chart render
 | Six years of food inflation in the EU | [`food-inflation-map.csv`](food-inflation-map/food-inflation-map.csv) | Eurostat, HICP monthly index (prc_hicp_minr, ECOICOP-2), food (CP011), to July 2026 (Turkey and Kosovo excluded from the map) |
 | The G7's century so far | [`g7-century.csv`](g7-century/g7-century.csv) | IMF World Economic Outlook database |
 | The geography of a long life | [`geography-of-long-life.csv`](geography-of-long-life/geography-of-long-life.csv) | World Bank, World Development Indicators, life expectancy at birth (SP.DYN.LE00.IN), 2023 |
+| Where the growth has been since 2020 | [`growth-since-2020.csv`](growth-since-2020/growth-since-2020.csv) | IMF World Economic Outlook, real GDP growth, compounded 2021-2026 (2025 and 2026 are projections) |
 | Where life expectancy grew the most | [`health-story-nobody-shares.csv`](health-story-nobody-shares/health-story-nobody-shares.csv) | World Bank, World Development Indicators, life expectancy at birth, 2000 and 2023, countries with at least 5 million people |
 | Forty years of keeping the lights on | [`lights-on.csv`](lights-on/lights-on.csv) | Ember and Energy Institute via Our World in Data |
 | Money buys life, up to a point | [`money-buys-life.csv`](money-buys-life/money-buys-life.csv) | World Bank, World Development Indicators, GDP per capita (current US$) and life expectancy at birth, 2023, countries with at least 1 million people |
