@@ -8,9 +8,8 @@ before the chart is published; the CSV here is exactly the data the chart render
 | Chart | Data | Sources |
 |---|---|---|
 | 125 years of burning things | [`125-years-of-burning.csv`](125-years-of-burning/125-years-of-burning.csv) | Global Carbon Budget via Our World in Data, world fossil CO2 emissions, 1900-2024 |
-| After the fever | [`after-the-fever.csv`](after-the-fever/after-the-fever.csv) | Eurostat, HICP all items (prc_hicp_minr), 2022 peaks vs July 2026 |
+| After the fever | [`after-the-fever.csv`](after-the-fever/after-the-fever.csv) | Eurostat, HICP all items, annual rate of change (prc_hicp_minr, unit RCH_A), monthly 2020-01 to 2026-07, 30 countries plus the EU average |
 | Deflation almost never happens | [`deflation-almost-never.csv`](deflation-almost-never/deflation-almost-never.csv) | US Bureau of Labor Statistics via FRED (CPIAUCSL) |
-| Democracy in retreat | [`democracy-in-retreat.csv`](democracy-in-retreat/democracy-in-retreat.csv) | V-Dem electoral democracy index via Our World in Data |
 | The dollar's year, currency by currency | [`dollar-year.csv`](dollar-year/dollar-year.csv) | European Central Bank reference rates via Frankfurter, Jan 2 to Sep 9, 2026 |
 | The electricity superpower | [`electricity-superpower.csv`](electricity-superpower/electricity-superpower.csv) | Ember and Energy Institute via Our World in Data |
 | Every month on Earth since 1950 | [`every-month-on-earth.csv`](every-month-on-earth/every-month-on-earth.csv) | NASA GISS Surface Temperature Analysis (GISTEMP v4), monthly global means, to May 2026 |
